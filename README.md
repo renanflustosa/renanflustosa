@@ -24,6 +24,7 @@ Software engineer, 6 years shipping production systems end to end.
 
 - **LustosaTech** — my own products and client projects: an AI assistant on the official WhatsApp API (text, voice, images, scheduling, lead reports), an automated short-video pipeline and an AI-curated news portal.
 - **[Octo Cluster](https://github.com/renanflustosa/octo-cluster)** — open-source Claude Code plugin at Virgo Cluster: clean commits without force-push, rough requests turned into ready-to-run prompts, a small always-on context.
+- **[template-e2e](https://github.com/renanflustosa/template-e2e)** — the acceptance-test shell I ship with every client project: one Playwright test per acceptance criterion, video evidence, CI and a daily smoke check.
 - **[aporte-fii](https://github.com/renanflustosa/aporte-fii)** — CLI that picks where this month's contribution goes in a long-term, income-focused REIT (FII) portfolio.
 
 ### Experience
@@ -55,6 +56,7 @@ Engenheiro de software, 6 anos entregando sistemas em produção de ponta a pont
 **Hoje**
 - **LustosaTech** — produtos próprios e projetos para clientes: atendente com IA na API oficial do WhatsApp (texto, áudio, imagem, agenda e relatório por lead), pipeline automático de vídeos curtos e portal de notícias com curadoria por IA.
 - **[Octo Cluster](https://github.com/renanflustosa/octo-cluster)** — plugin open-source para o Claude Code, no Virgo Cluster: commits limpos sem force-push, pedidos soltos viram prompts prontos e contexto fixo enxuto.
+- **[template-e2e](https://github.com/renanflustosa/template-e2e)** — a casca de testes de aceite que vai em todo projeto de cliente: um teste Playwright por critério de aceite, vídeo da validação, CI e smoke diário.
 - **[aporte-fii](https://github.com/renanflustosa/aporte-fii)** — CLI que diz em quais FIIs pôr o aporte do mês, numa carteira de longo prazo focada em renda mensal.
 
 **Experiência**
