@@ -28,12 +28,10 @@ Software engineer, 6 years shipping production systems end to end.
 
 ### Experience
 
-| | | |
-|---|---|---|
-| **LustosaTech** | Founder & Full-Stack Software Engineer | 2025 – now |
-| **Virgo Cluster Labs** | Founder, open source | 2026 – now |
-| **MPLAN** | Full-Stack Software Engineer — SIGLA, the operations platform for intercity bus operators in Brazil: legacy version, GPS/ticketing/regulatory integrations, new web version | 2020 – 2025 |
-| **FASOLTI** | IT Intern — Linux, support and automation scripts | 2019 – 2020 |
+- **LustosaTech** — Founder & Full-Stack Software Engineer · 2025 – now
+- **Virgo Cluster Labs** — Founder, open source · 2026 – now
+- **MPLAN** — Full-Stack Software Engineer · 2020 – 2025. SIGLA, the planning and operations platform for intercity bus operators in Brazil: maintained the legacy version and its GPS, ticketing, regulatory and timekeeping integrations, and helped build the new web version.
+- **FASOLTI** — IT Intern · 2019 – 2020
 
 **Education:** Associate Degree in Systems Analysis and Development — UniCarioca, 2021.
 
